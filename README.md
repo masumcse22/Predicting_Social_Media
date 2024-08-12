@@ -43,7 +43,7 @@ Our advanced methodological approach encompasses several stages:
 Detailed setup instructions are provided to ensure a smooth start:
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/masumcse22/Predicting_Social_Media>
 
 # Navigate to the project directory
 cd predicting-social-media-addiction
